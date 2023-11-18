@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izhan23k
-- 👀 I’m interested in ...Coding.
-- 🌱 I’m currently learning ...Data Structures and Algos
+- 👀 I’m interested in ...Coding/Marketing
+- 🌱 I’m currently learning ...Flutter/Dart
 - 💞️ I’m looking to collaborate on ...Any Project.
 - 📫 How to reach me ...https://www.instagram.com/izhannkhann/
 
